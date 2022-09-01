@@ -1,4 +1,4 @@
-#Each element in an Array is a Hash
+#Each element in an Array is a HASH
 #key:username value:dejan || password:key pass1:value
 #username: & password: are Symbols || "dejan" & "pass1" are Strings
 users = [
