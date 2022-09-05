@@ -30,7 +30,7 @@ attempts = 1
 
 
 while attempts < 4
-#while condition is true - keep looping. (If not true - Break), HAVE AN EXIT STRATEGY FOR WHILE LOOPS
+  #while condition is true - keep looping.
 
 print "Username: " #1
 username = gets.chomp
